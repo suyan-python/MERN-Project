@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white;
+  color: black;
+}
+
+[data-theme="dark"] {
+  background-color: black;
+  color: white;
+}
+
+.toastBody {
+  color: white;
+  font-size: 1.7rem;
+}

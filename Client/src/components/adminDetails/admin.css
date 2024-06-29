@@ -1,0 +1,12 @@
+.card {
+  background-color: black;
+  color: white;
+  box-shadow: 0 4px 18px cyan;
+  border-radius: 20px;
+  padding-left: 14px;
+}
+.card-img img {
+  border-radius: 50%;
+  box-shadow: 0 4px 18px cyan;
+  margin: 22px;
+}

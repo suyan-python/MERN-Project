@@ -1,0 +1,20 @@
+nav {
+  .items {
+    align-items: center;
+  }
+}
+
+.active.civil {
+  background-color: blue;
+  color: white;
+}
+
+.active.computer {
+  background-color: green;
+  color: white;
+}
+
+.active.architect {
+  background-color: rgb(224, 46, 123);
+  color: white;
+}

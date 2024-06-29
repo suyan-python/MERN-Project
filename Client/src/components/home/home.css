@@ -1,0 +1,21 @@
+.body {
+}
+
+.rate-professor:hover {
+  box-shadow: 0 5px 12px orange;
+}
+.teacher-details:hover {
+  box-shadow: 0 5px 12px rgb(0, 106, 106);
+}
+
+.admin-details:hover {
+  box-shadow: 0 5px 12px rgb(195, 0, 0);
+}
+
+.file-transfer:hover {
+  box-shadow: 0 5px 12px green;
+}
+
+.iChat:hover {
+  box-shadow: 0 5px 12px rgb(0, 106, 106);
+}
